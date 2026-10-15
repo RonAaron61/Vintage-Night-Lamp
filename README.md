@@ -11,8 +11,8 @@ The Digital Output of the module than can be connected to a mosfet, which I use 
 
 For the LED, I use a candle LED to mimic a moving candle light. I replace the battery holder from the Light, and connect it to the Mosfet, and the output of the TP4056 Battery Charger Module.
 
-<img src="Vintage_Lamp2.jpg" width="800">
+<img src="assets/Vintage_lamp2.jpg" width="800">
 
 Then for the enclosure I 3D printed a vintage type light holder, that I can hang in the wall
 
-<img src="Vintage_result.jpg" width="800">
+<img src="assets/Vintage_result.jpg" width="500">
